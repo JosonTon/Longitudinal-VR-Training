@@ -19,5 +19,5 @@ This project uses third-party resources, including:
   - A copy of this license can be found here:  /Third_Party_Licenses/Oculus SDK License Agreement
 
 - **Source Han Sans CN Font**
-  - Source Han Sans CN is an open-source font software created by Adobe. It's licensed under the SIL Open Font License Version 1.1, which is available at: http://scripts.sil.org/OFL
+  - Source Han Sans CN is an open-source font software created by Adobe. It is used to create the task tips displayed on the UI. It's licensed under the SIL Open Font License Version 1.1, which is available at: http://scripts.sil.org/OFL
   - A copy of this license can be found here:  /Third_Party_Licenses/source-han-sans-license.txt
