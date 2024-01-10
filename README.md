@@ -2,9 +2,9 @@
 
 # Project Info
 
-This project is open-sourced under the Apache License 2.0 to facilitate peer review for the associated research paper.
-This project is developed using Unity 3D Version 2020.3.32f1c1. Building it with other versions may cause potential issues.
-To install and run this project on Quest 2, please ensure the operating system of Quest 2 is updated to its latest version and hand tracking option in system settings is enabled. Old versions may cause issues with hand tracking.
+-This project is open-sourced under the Apache License 2.0 to facilitate peer review for the associated research paper.
+-This project is developed using Unity 3D Version 2020.3.32f1c1. Building it with other versions may cause potential issues.
+-To install and run this project on Quest 2, please ensure the operating system of Quest 2 is updated to its latest version and hand tracking option in system settings is enabled. Old versions may cause issues with hand tracking.
 
 ## License
 
