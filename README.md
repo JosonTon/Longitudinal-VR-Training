@@ -15,7 +15,7 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 This project uses third-party resources, including:
 
 - **Oculus SDK**
-  Oculus SDK is utilized to make this project executable on Meta Quest 2. It's licensed under Oculus SDK License Agreement, which is available at: https://developer.oculus.com/licenses/oculussdk/
+  - Oculus SDK is utilized to make this project executable on Meta Quest 2. It's licensed under Oculus SDK License Agreement, which is available at: https://developer.oculus.com/licenses/oculussdk/
   A copy of this license can be found here:
  - [Oculus SDK License Agreement](/Third_Party_Licenses/Oculus SDK License Agreement)
 
