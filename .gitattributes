@@ -1,0 +1,2 @@
+libil2cpp.sym.so filter=lfs diff=lfs merge=lfs -text
+libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text

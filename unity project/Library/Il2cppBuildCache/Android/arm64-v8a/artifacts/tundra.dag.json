@@ -1,0 +1,167 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp E:/Unity/Projects/long_term/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.32f1c1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARM64\" --configuration=\"Release\" --outputpath=\"E:\\Unity\\Projects\\long_term\\Library\\Il2cppBuildCache\\Android\\arm64-v8a\\Native\\arm64-v8a\\libil2cpp.so\" --cachedirectory=\"E:\\Unity\\Projects\\long_term\\Assets\\..\\Library\\il2cpp_android_arm64-v8a/il2cpp_cache\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\arm64-v8a\" --avoid-dynamic-library-copy --tool-chain-path=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed --generatedcppdir=E:/Unity/Projects/long_term/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput --stats-output-dir=E:/Unity/Projects/long_term/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppStats",
+      "Inputs": [
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/AssistantCoreSDKRuntime.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Facebook.Wit.Dictation.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.VoiceSDK.Mic.Common.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.VoiceSDK.Mic.Other.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.WitAi.Conduit.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.WitAi.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.WitAi.Lib.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.WitAi.TTS.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Meta.WitAi.TTS.Samples.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.AudioManager.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.Interaction.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.Interaction.OVR.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.Interaction.OVR.Samples.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.LipSync.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.Platform.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.Spatializer.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.Voice.Demo.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Oculus.VR.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Management.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Oculus.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AIModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VideoModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/VoiceSDK.Dictation.Runtime.dll",
+        "E:/Unity/Projects/long_term/Temp/StagingArea/assets/bin/Data/Managed/VoiceSDK.Runtime.dll",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a/baselib.a",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a/libunityruntime.a",
+        "\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "E:/Unity/Projects/long_term/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2020.3.32f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
