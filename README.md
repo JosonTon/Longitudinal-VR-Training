@@ -3,6 +3,7 @@
 # Project Info
 
 - This project is open-sourced under the Apache License 2.0 to facilitate peer review for the associated research paper.
+- To add this project to your Unity Projects list, please download the "unity project" folder and select it after clicking "Add project from disk" in your Unity Hub.
 - This project is developed using Unity 3D Version 2020.3.32f1c1. Building it with other versions may cause potential issues. An apk file can be found in Release, or: /unity project/Builds
 - As this this project application is not published through Meta store, to install it on Quest 2, you have to enable developer mode on your Quest 2 first and sideload the application via tools like SideQuest.
 - To run this project application on Quest 2, please ensure the operating system of Quest 2 is updated to its latest version and hand tracking option in system settings is enabled. Old system versions may cause issues with hand tracking.
